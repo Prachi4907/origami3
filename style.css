@@ -1,0 +1,32 @@
+.header{
+    justify-content: space-between;
+    font-size: 20px;
+    font-family:  monospace;
+    color:rgb(13, 13, 75) ;
+    padding: 10px;
+}
+.origami1{
+    display: table;
+    justify-content: space-between;
+    font-size: 30px;
+    font-family: 'Courier New';
+    border-radius: 15px;
+    padding: 30px;
+    margin: 15px;
+}
+.origami2{
+    display: table;
+    justify-content: space-between;
+    font-size: 30px;
+    font-family: 'Courier New';
+    border-radius: 15px;
+    padding: 30px;
+    margin: 15px;
+}
+.webpage{
+    background-color: rgb(219, 113, 223);
+    border: rgb(7, 7, 77);
+    border-radius: 20px;
+    border-width: 310px;
+    
+}
